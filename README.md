@@ -15,7 +15,7 @@ Although the total number of rides, drivers and fares decrease as the cities bec
 
 ### Analysis2:
 
-With the multiple-line chart, we are able to compare total fares by city type over a period of five months. The number of rides seem peak at the end of February and fluctuates during the month of March. All the graphs tend to follow the same trend throughout these months, except for the trend in suburban cities, where we see a sharper increase during the month of April. 
+With the multiple-line chart, we are able to compare total fares by city type over a period of five months. The number of rides seem peak at the end of February(winter or snowy areas?? perhaps people do not want to take their own cars) and fluctuates during the month of March. All the graphs tend to follow the same trend throughout these months, except for the trend in suburban cities, where we see a sharper increase during the month of April (people wanted to go out in suburbans? ). 
 
 ![PyBer_fare_summary](https://github.com/vijaycse/pyber_analysis/blob/master/Analysis/PyBer_fare_summary.png)
 
